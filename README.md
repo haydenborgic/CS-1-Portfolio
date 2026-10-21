@@ -1,5 +1,5 @@
 # Computer Science I
-Projects created is Computer Science I
+Projects created in Computer Science I
 
 My name is Hayden Borgic. This portfolio includes project I completed in Computer Science I.
 
