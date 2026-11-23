@@ -3,7 +3,7 @@
 ## Description
 This program asks the user for an error tolerance and then returns a pi approximation using the infinite sum until the error tolerance is reached. As well as displaying the minimum number of terms required to reach the required tolerance. It displays each term sequentially in a table.
 
-## Skill Practiced
+## Skills Practiced
 - Taking input from the user
 - Using long arithmetic 
 - Using a while loop
