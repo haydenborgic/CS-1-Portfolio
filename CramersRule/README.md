@@ -1,7 +1,7 @@
 # Cramer's Rule
 
 ## Description
-- This program finds the answers to a system of 3 polynomials with 3 separate variables. It makes the player input the equations. Then, enters them into a 2d list. Then, it uses a function to find find the determinate. Then, uses Cramer's rule to find and print the answers to the system. If the determinate is 0 and there are no answers then it tells the user.
+- This program finds the answers to a system of 3 polynomials with 3 separate variables. It makes the user input the equations. Then, enters them into a 2d list. Then, it uses a function to find find the determinate. Then, uses Cramer's rule to find and print the answers to the system. If the determinate is 0 and there are no answers then it tells the user.
 
 ## Skills Practiced
 - Making 2d lists
